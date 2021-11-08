@@ -25,3 +25,4 @@ const myVnode2 = h('ul',{}, [
 ])
 
 console.log(myVnode2);
+console.log(myVnode1)
